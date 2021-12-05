@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://pooja-sanap-53.github.io/Front-End-Mentor/001_NFT_PreviewCardComponentMain/)
-- Live Site URL: [Add live site URL here](https://pooja-sanap-53.github.io/Front-End-Mentor/001_NFT_PreviewCardComponentMain/html&css/index.html)
+- Solution URL: (https://pooja-sanap-53.github.io/Front-End-Mentor/001_NFT_PreviewCardComponentMain/html&css/)
+- Live Site URL: (https://pooja-sanap-53.github.io/Front-End-Mentor/001_NFT_PreviewCardComponentMain/html&css/index.html)
 
 
 ### Built with
