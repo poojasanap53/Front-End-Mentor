@@ -1,0 +1,12 @@
+.container{
+    width: 75%;
+}
+
+
+.icon1{
+    display: inline;
+    text-align: left;
+    margin-left: 0px;
+    padding-right: 25%;
+    color: hsl(178, 100%, 50%);
+}

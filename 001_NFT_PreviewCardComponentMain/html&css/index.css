@@ -1,0 +1,82 @@
+*{
+    background-color: hsl(217, 54%, 11%);
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font-family: 'Outfit', sans-serif; 
+}
+
+.container{
+    background-color: hsl(216, 50%, 16%);
+    height: auto;
+    width: 25%;
+    margin: auto;
+    margin-top: 3%;
+    border-radius: 10px;
+    padding-bottom: 1%;
+    box-shadow: 0 0 20px 8px hsl(215, 94%, 6%);
+    
+}
+
+
+#Equilibrium-image{
+    width: 90%;
+    border-radius: 7px;
+    margin-top: 10px;
+}
+
+p{
+    background-color:hsl(216, 50%, 16%) ;
+    font-size: 18px;
+}
+.name, .info{
+    text-align: left;
+    padding-left: 8%;
+    padding-right: 8%;
+    color: hsl(215, 51%, 70%);
+}
+
+.name{
+    color:white ;
+}
+
+.info{
+    font-weight: 200;
+    font-size: 16px;
+}
+
+.icon1{
+    display: inline;
+    text-align: left;
+    margin-left: 0px;
+    padding-right: 20%;
+    color: hsl(178, 100%, 50%);
+}
+
+.icon2{
+    display: inline;
+    text-align: left;
+    
+}
+
+hr{
+    width: 85%;
+    color:hsl(215, 32%, 27%);
+}
+
+#avatar{
+    border-radius: 65px;
+    width: 7%;
+    border: white 1px solid;
+    
+}
+
+.user{
+    color: hsl(215, 51%, 70%);
+    
+    
+}
+a{
+    text-decoration: none;
+    background-color: hsl(216, 50%, 16%);
+}
