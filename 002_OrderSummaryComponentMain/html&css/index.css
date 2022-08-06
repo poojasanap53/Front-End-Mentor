@@ -4,17 +4,19 @@
 }
 
 body{
+    align-items: center;
     background-image: url(../images/pattern-background-desktop.svg);
     background-repeat: no-repeat; 
     background-size: contain;
     font-family: 'Red Hat Display', sans-serif;
     overflow: hidden;
 }
-
+ 
 .main{
     width: 35%;
+    border-radius: 25px;
     text-align: center;
-    margin: auto auto;
+    margin: 15px auto;
     align-items: center;
     background-color: white;
 }
@@ -71,8 +73,10 @@ a{
     border-radius: 10px;
     margin: 5% 0;
     text-shadow: 2%;
+    cursor:pointer;
 }
 
 .cancel{
     color:darkgray;
+    cursor:pointer;
 }
