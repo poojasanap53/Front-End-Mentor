@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live Site](https://pooja-sanap-53.github.io/Front-End-Mentor/001_NFT_PreviewCardComponentMain/html&css/index.html)
+- Live Site URL: [Live Site](https://poojasanap53.github.io/Front-End-Mentor/001_NFT_PreviewCardComponentMain/html&css/index.html)
 
 
 ### Built with
